@@ -1,0 +1,6 @@
+<script src='https://raw.github.com/Quocdung2030/cssjss/master/redirectcopy-rvptw.js' type='text/javascript'/>
+<script src='https://raw.github.com/Quocdung2030/cssjss/master/popupan-rvptw.js'/>
+
+<link href='https://raw.github.com/Quocdung2030/cssjss/master/bannerdautrang.css' rel='stylesheet'/>
+<script src='http://code.jquery.com/jquery-1.9.1.js' type='text/javascript'/>
+<script src='https://raw.github.com/Quocdung2030/cssjss/master/bannerdautrang-rvptw.js' type='text/javascript'/>
